@@ -2,6 +2,7 @@
 - I'm a backend engineer at Treehouse Labs (the one with black background and a letter T).
 - I'm currently learning the Database Management Systems course on CMU, as I interesting on how a database system works and how to use it properly. It would be greate if you want to join me and learn together as well.
 - I'm looking to collaborate on any OSS written in Go or Rust.
+- My email: vinhnguyenhoang96@gmail.com or discord: vinhnguyenhoang
 
 <!--
 **VinhNguyenHoang/VinhNguyenHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
