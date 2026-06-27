@@ -1,8 +1,6 @@
 ## Hi there 👋
-- I'm a backend engineer working mainly with Go.
-- I'm currently learning the Database Management Systems course on CMU, as I interesting on how a database system works and how to use it properly. It would be great if you want to join me and learn together as well.
-- I'm looking to collaborate on any OSS written in Go or Rust.
-- My email: vinhnguyenhoang96@gmail.com or discord: vinhnguyenhoang
+- I'm a backend engineer working mainly with Go and data pipelines.
+- My email: vinhnguyenhoang96@gmail.com
 - The cute little trash panda on my profile is credited to @bu2ma_ins on IG.
 
 <!--
